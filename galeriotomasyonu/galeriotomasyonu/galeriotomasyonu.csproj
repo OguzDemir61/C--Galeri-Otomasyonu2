@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A0EFFC53-22A1-4690-A765-272D1BAE1640}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>galeriotomasyonu</RootNamespace>
+    <AssemblyName>galeriotomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGiris.Designer.cs">
+      <DependentUpon>AdminGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaSayfa.Designer.cs">
+      <DependentUpon>frmAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaracalim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaracalim.Designer.cs">
+      <DependentUpon>frmaracalim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaracalisguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaracalisguncelle.Designer.cs">
+      <DependentUpon>frmaracalisguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaracalissil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaracalissil.Designer.cs">
+      <DependentUpon>frmaracalissil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAracMarkaTanımlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAracMarkaTanımlama.Designer.cs">
+      <DependentUpon>frmAracMarkaTanımlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaracsatissil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaracsatissil.Designer.cs">
+      <DependentUpon>frmaracsatissil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaracstisguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaracstisguncelle.Designer.cs">
+      <DependentUpon>frmaracstisguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaracstokekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaracstokekle.Designer.cs">
+      <DependentUpon>frmaracstokekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaracstokguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaracstokguncelle.Designer.cs">
+      <DependentUpon>frmaracstokguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaracstoksil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaracstoksil.Designer.cs">
+      <DependentUpon>frmaracstoksil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBirimTanimlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBirimTanimlama.Designer.cs">
+      <DependentUpon>frmBirimTanimlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFinalUygulama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFinalUygulama.Designer.cs">
+      <DependentUpon>frmFinalUygulama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiderlerTanımlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiderlerTanımlama.Designer.cs">
+      <DependentUpon>frmGiderlerTanımlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkonsiyearacguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkonsiyearacguncelle.Designer.cs">
+      <DependentUpon>frmkonsiyearacguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkonsiyearacsil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkonsiyearacsil.Designer.cs">
+      <DependentUpon>frmkonsiyearacsil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkonsiyearacekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkonsiyearacekle.Designer.cs">
+      <DependentUpon>frmkonsiyearacekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmpersonelekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpersonelekle.Designer.cs">
+      <DependentUpon>frmpersonelekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmpersonelguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpersonelguncelle.Designer.cs">
+      <DependentUpon>frmpersonelguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelMaasTanımlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelMaasTanımlama.Designer.cs">
+      <DependentUpon>frmPersonelMaasTanımlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmpersonelsil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpersonelsil.Designer.cs">
+      <DependentUpon>frmpersonelsil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelÖdemeBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelÖdemeBilgileri.Designer.cs">
+      <DependentUpon>frmPersonelÖdemeBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelİsimTanımlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelİsimTanımlama.Designer.cs">
+      <DependentUpon>frmPersonelİsimTanımlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lisans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lisans.Designer.cs">
+      <DependentUpon>lisans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminGiris.resx">
+      <DependentUpon>AdminGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnaSayfa.resx">
+      <DependentUpon>frmAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaracalim.resx">
+      <DependentUpon>frmaracalim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaracalisguncelle.resx">
+      <DependentUpon>frmaracalisguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaracalissil.resx">
+      <DependentUpon>frmaracalissil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAracMarkaTanımlama.resx">
+      <DependentUpon>frmAracMarkaTanımlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaracsatissil.resx">
+      <DependentUpon>frmaracsatissil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaracstisguncelle.resx">
+      <DependentUpon>frmaracstisguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaracstokekle.resx">
+      <DependentUpon>frmaracstokekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaracstokguncelle.resx">
+      <DependentUpon>frmaracstokguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaracstoksil.resx">
+      <DependentUpon>frmaracstoksil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBirimTanimlama.resx">
+      <DependentUpon>frmBirimTanimlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFinalUygulama.resx">
+      <DependentUpon>frmFinalUygulama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiderlerTanımlama.resx">
+      <DependentUpon>frmGiderlerTanımlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkonsiyearacguncelle.resx">
+      <DependentUpon>frmkonsiyearacguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkonsiyearacsil.resx">
+      <DependentUpon>frmkonsiyearacsil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkonsiyearacekle.resx">
+      <DependentUpon>frmkonsiyearacekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpersonelekle.resx">
+      <DependentUpon>frmpersonelekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpersonelguncelle.resx">
+      <DependentUpon>frmpersonelguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelMaasTanımlama.resx">
+      <DependentUpon>frmPersonelMaasTanımlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpersonelsil.resx">
+      <DependentUpon>frmpersonelsil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelÖdemeBilgileri.resx">
+      <DependentUpon>frmPersonelÖdemeBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelİsimTanımlama.resx">
+      <DependentUpon>frmPersonelİsimTanımlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lisans.resx">
+      <DependentUpon>lisans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\28532.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-exchange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teamwork.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\management.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-bag-yen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-medium.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money--arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money--plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-plus-sub.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus-circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-bag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-bag-dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-bag1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yonetici-icon-300x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\133-1334828_staff-icon-01-personnel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Two Plus Architects _ Auto Gallery Design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updated.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

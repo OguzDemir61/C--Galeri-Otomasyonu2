@@ -1,0 +1,271 @@
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.giris.resources
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.giris.resources
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\mscorlib.dll
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\System.Net.Http.xml
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\normidna.nlp
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\normnfc.nlp
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\normnfd.nlp
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\normnfkc.nlp
+C:\Users\Chotanax\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\normnfkd.nlp
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.giris.resources
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Hp\Desktop\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalim.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokekle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalissil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracsatissil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstoksil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\System.Net.Http.xml
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form3.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalim.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalissil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracsatissil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokekle.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstoksil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacsil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacekle.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelekle.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelsil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.giris.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Chotanax\Desktop\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.AdminGiris.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\System.Net.Http.xml
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.AdminGiris.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form3.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalim.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalissil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracsatissil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokekle.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstoksil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacsil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacekle.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelekle.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelsil.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.giris.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Chotanax\Desktop\Yeni klasör (7)\Yeni klasör (6)\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.AdminGiris.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form3.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalim.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalissil.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracsatissil.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokekle.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstoksil.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacsil.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacekle.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelekle.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelsil.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.giris.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\2\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\System.Net.Http.xml
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.AdminGiris.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalim.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalisguncelle.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalissil.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracsatissil.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstisguncelle.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokekle.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokguncelle.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstoksil.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacguncelle.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacsil.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacekle.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelekle.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelguncelle.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelsil.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Chotanax\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.AdminGiris.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalim.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalisguncelle.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalissil.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracsatissil.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstisguncelle.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokekle.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokguncelle.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstoksil.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacguncelle.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacsil.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacekle.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelekle.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelguncelle.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelsil.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\Otomasyon en son hali\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.AdminGiris.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalisguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstisguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacsil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacekle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelekle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelsil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmBirimTanimlama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.AdminGiris.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalim.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalisguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalissil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracsatissil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstisguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokekle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstoksil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmBirimTanimlama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacsil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacekle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelekle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelguncelle.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelsil.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmPersonelİsimTanımlama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu - Kopya\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAracMarkaTanımlama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAracMarkaTanımlama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmPersonelİsimTanımlama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmGiderlerTanımlama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmFinalUygulama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmPersonelMaasTanımlama.resources
+C:\Users\Hp\Desktop\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmPersonelÖdemeBilgileri.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe.config
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\bin\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.AdminGiris.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form1.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Form2.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAnaSayfa.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalim.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalisguncelle.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracalissil.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmAracMarkaTanımlama.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracsatissil.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstisguncelle.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokekle.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstokguncelle.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmaracstoksil.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmBirimTanimlama.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmFinalUygulama.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmGiderlerTanımlama.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacguncelle.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacsil.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmkonsiyearacekle.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelekle.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelguncelle.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmPersonelMaasTanımlama.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmpersonelsil.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmPersonelÖdemeBilgileri.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.frmPersonelİsimTanımlama.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.Properties.Resources.resources
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.exe
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.pdb
+C:\Users\Hp\Desktop\OĞUZ DEMİR\OTOMASYONLAR\205511013_Oğuz Hüseyin Safa DEMİR_DMRGaleriOtomasyonu\galeriotomasyonu\galeriotomasyonu\obj\Debug\galeriotomasyonu.lisans.resources
